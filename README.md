@@ -1,3 +1,5 @@
+https://www.icegif.com/wp-content/uploads/2022/12/icegif-27.gif
+
 # 👋 Hi, I'm Hasan!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [Computer Science]() at state of polytechnic malang, Indonesia<br/>
