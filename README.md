@@ -1,4 +1,4 @@
-![Header GIF](https://www.icegif.com/wp-content/uploads/2022/12/icegif-27.gif)
+![Header GIF](https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif)
 
 # 👋 Hi, I'm Hasan!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
