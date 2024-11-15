@@ -33,5 +33,4 @@
 
 ![Header GIF](https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MHasanBas&theme=ayu-mirage&hide_border=true&layout=compact" alt="wakatime" />
 
