@@ -1,6 +1,6 @@
 
+![Header GIF](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
-![Header GIF]([https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif))
 
 ![Header GIF](https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif)
 
