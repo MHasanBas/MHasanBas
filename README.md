@@ -2,7 +2,6 @@
 ![Header GIF](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
 
-![Header GIF](https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif)
 
 # 👋 Hi, I'm Hasan!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
@@ -31,3 +30,6 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+![Header GIF](https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif)
+
