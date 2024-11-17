@@ -16,7 +16,6 @@
 <a href="https://medium.com/@hasansenjuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hasansenjuu" height="30" width="40" /></a>
 </p>
 <br><br/>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=radical)
 
