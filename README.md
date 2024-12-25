@@ -3,11 +3,12 @@
 
 
 
-# 👋 Hi, I'm Hasan!
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science]() at state of polytechnic malang, Indonesia<br/>
-🌷 #learninginpublic in my [digital garden]()<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+#👋 Hi, I'm Hasan!
+👨‍💻 Frontend Developer sharing my journey and lessons in tech.
+🎓 Computer Science Graduate from State Polytechnic of Malang, Indonesia.
+🌱 Passionate about #LearningInPublic and cultivating knowledge in my digital garden.
+📊 Currently diving deep into data analytics and exploring the art of data visualization.
+
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <h3 align="left">Connect with me:</h3>
