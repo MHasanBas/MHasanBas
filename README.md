@@ -4,10 +4,10 @@
 
 
 #👋 Hi, I'm Hasan!
-👨‍💻 Frontend Developer sharing my journey and lessons in tech.
-🎓 Computer Science Graduate from State Polytechnic of Malang, Indonesia.
-🌱 Passionate about #LearningInPublic and cultivating knowledge in my digital garden.
-📊 Currently diving deep into data analytics and exploring the art of data visualization.
+## 👨‍💻 Frontend Developer sharing my journey and lessons in tech.
+## 🎓 Computer Science Graduate from State Polytechnic of Malang, Indonesia.
+## 🌱 Passionate about #LearningInPublic and cultivating knowledge in my digital garden.
+## 📊 Currently diving deep into data analytics and exploring the art of data visualization.
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
