@@ -32,9 +32,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hasansenjuu" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/hasansenjuu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hasansenjuu" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_logo.png" alt="Hackerrank" height="35" width="35" />
   </a>
 </p>
+
 
 
 <!-- ![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=radical) -->
