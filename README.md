@@ -82,6 +82,15 @@ Badges from https://github.com/Ileriayo/markdown-badges
 ![Header GIF](https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif)
 
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 
 
