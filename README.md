@@ -10,9 +10,15 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Muhammad+Hasan....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+My+GitHub+Profile!;I'm+Muhammad+Hasan.;Frontend+Developer+and+Tech+Enthusiast!&center=true&size=24&color=7FFF00&vCenter=true&width=600&height=50&pause=1000">
   </a>
 </h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-c36d085b5cc1.gif" alt="Coding Animation" width="500" />
+</p>
+
+
 
 <!--  👋 Hi, I'm Hasan! -->
 
