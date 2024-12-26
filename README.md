@@ -2,9 +2,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MHasanBas/MHasanBas/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MHasanBas/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 
 <!--![Header GIF](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif) -->
