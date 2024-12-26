@@ -33,12 +33,17 @@
 
 ### My Github Stats:
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=radical" alt="MHasanbas's GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHasanbas&theme=radical" alt="said7388" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=radical" alt="MHasanBas's GitHub Stats" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHasanBas&theme=radical" alt="MHasanBas's GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 
 ### Languages and Tools:
 
