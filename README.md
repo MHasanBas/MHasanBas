@@ -22,7 +22,6 @@
 <a href="https://www.linkedin.com/in/m-hasan-basri-7a8851252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Hasan" height="30" width="40" /></a>
 <a href="https://medium.com/@hasansenjuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hasansenjuu" height="30" width="40" /></a>
 </p>
-<br><br/>
 
 <!-- ![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=radical) -->
 
