@@ -1,5 +1,7 @@
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-![Header GIF](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+[Header](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
+
+
+<!--![Header GIF](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif) -->
 
 
 <h1 align="center">
