@@ -1,10 +1,7 @@
-###
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/MHasanBas/MHasanBas/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 
