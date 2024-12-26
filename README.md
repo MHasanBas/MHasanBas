@@ -109,6 +109,17 @@ Badges from https://github.com/Ileriayo/markdown-badges
 
 ![Header GIF](https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif)
 
+### Top Repositories
+
+<p align="center">
+  <a href="https://github.com/MHasanBas/developer-portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MHasanBas&repo=kompen&theme=radical" />
+  </a>
+  <a href="https://github.com/MHasanBas/Express-Postgres-blog">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MHasanBas&repo=30-Days-Of-React&theme=radical" />
+  </a>
+</p>
+
 
 
 
