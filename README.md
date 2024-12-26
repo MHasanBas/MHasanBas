@@ -32,7 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHasanbas&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Muhammad Hasan's GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=said7388&theme=algolia" alt="said7388" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHasanbas&theme=algolia" alt="said7388" />
 </p>
 
 ### Languages and Tools:
