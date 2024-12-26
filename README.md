@@ -24,15 +24,15 @@
 </p>
 <br><br/>
 
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=radical)
+<!-- ![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=radical) -->
 
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHasanbas&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Muhammad Hasan's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHasanbas&show_icons=true&include_all_commits=true&theme=radical" alt="Muhammad Hasan's GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHasanbas&theme=algolia" alt="said7388" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=radical" />
 </p>
 
 ### Languages and Tools:
