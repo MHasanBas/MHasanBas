@@ -107,13 +107,16 @@ Badges from https://github.com/Ileriayo/markdown-badges
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
 
-![Header GIF](https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif" alt="Header GIF" />
+</p>
+
 
 ### Top Repositories
 
 <p align="center">
   <a href="https://github.com/MHasanBas/developer-portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MHasanBas&repo=kompen&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MHasanBas&repo=chess-game&theme=radical" />
   </a>
   <a href="https://github.com/MHasanBas/Express-Postgres-blog">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MHasanBas&repo=30-Days-Of-React&theme=radical" />
