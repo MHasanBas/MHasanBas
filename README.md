@@ -1,4 +1,10 @@
-[Header](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MHasanBas/MHasanBas/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <!--![Header GIF](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif) -->
