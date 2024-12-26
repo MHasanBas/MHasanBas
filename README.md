@@ -2,8 +2,13 @@
 ![Header GIF](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Muhammad+Hasan....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-# 👋 Hi, I'm Hasan!
+<!--  👋 Hi, I'm Hasan! -->
 
 👨‍💻 **Frontend Developer** sharing my journey and lessons in tech.  
 🎓 **Computer Science Graduate** from State Polytechnic of Malang, Indonesia.  
