@@ -29,10 +29,10 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHasanbas&show_icons=true&include_all_commits=true&theme=radical" alt="Muhammad Hasan's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=radical" alt="MHasanbas's GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHasanbas&theme=radical" alt="said7388" />
 </p>
 
 ### Languages and Tools:
