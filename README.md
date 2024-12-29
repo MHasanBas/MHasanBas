@@ -115,10 +115,10 @@ Badges from https://github.com/Ileriayo/markdown-badges
 ### Top Repositories
 
 <div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
-  <a href="https://github.com/MHasanBas/developer-portfolio">
+  <a href="https://github.com/MHasanBas/chess-game">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MHasanBas&repo=chess-game&theme=radical" />
   </a>
-  <a href="https://github.com/MHasanBas/Express-Postgres-blog">
+  <a href="https://github.com/MHasanBas/30-Days-Of-React">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MHasanBas&repo=30-Days-Of-React&theme=radical" />
   </a>
 </div>
