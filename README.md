@@ -53,7 +53,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=ocean-dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MHasanbas&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=one_dark_pro" />
     </td>
     <td>
       <a href="https://git.io/streak-stats">
