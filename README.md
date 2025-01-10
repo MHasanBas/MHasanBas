@@ -57,7 +57,7 @@
     </td>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=MHasanBas&theme=one-dark-pro" alt="GitHub Streak" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=MHasanBas&theme=radical" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
