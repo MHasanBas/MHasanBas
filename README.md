@@ -53,12 +53,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MHasanbas&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=one_dark_pro" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=radical" alt="MHasanBas's GitHub Stats" />
     </td>
     <td>
-      <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=MHasanBas&theme=react" alt="GitHub Streak" />
-      </a>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHasanBas&theme=radical" alt="MHasanBas's GitHub Streak" />
     </td>
   </tr>
 </table>
