@@ -56,10 +56,13 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=radical" alt="MHasanBas's GitHub Stats" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.vercel.app?user=MHasanBas&theme=radical" alt="MHasanBas's GitHub Streak" />
+      <a href="https://git.io/streak-stats">
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MHasanBas&theme=one-dark-pro" alt="MHasanBas's GitHub Streak" />
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 
