@@ -127,7 +127,7 @@ Badges from https://github.com/Ileriayo/markdown-badges
 </div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MHasanBas&theme=radical)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MHasanBas&theme=radical" alt="GitHub Streak" /></a>
 
 
 
