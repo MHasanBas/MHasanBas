@@ -56,10 +56,11 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=MHasanBas&show_icons=true&theme=radical" alt="MHasanBas's GitHub Stats" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHasanBas&theme=radical" alt="MHasanBas's GitHub Streak" />
+      <img align="center" src="https://streak-stats.demolab.com?user=MHasanBas&theme=radical" />
     </td>
   </tr>
 </table>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MHasanBas&theme=radical" alt="GitHub Streak" /></a> -->
 
 
 
@@ -127,7 +128,6 @@ Badges from https://github.com/Ileriayo/markdown-badges
 </div>
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MHasanBas&theme=radical" alt="GitHub Streak" /></a>
 
 
 
