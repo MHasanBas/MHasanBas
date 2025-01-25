@@ -21,12 +21,14 @@
 
 
 
-<!--  👋 Hi, I'm Hasan! -->
+<!--  👋 Hi, I'm Hasan!
 
 👨‍💻 **Frontend Developer** sharing my journey and lessons in tech.  
 🎓 **Computer Science Graduate** from State Polytechnic of Malang, Indonesia.  
 🌱 Passionate about **#LearningInPublic** and growing knowledge in my digital garden.  
-📊 Currently exploring **data analytics** and the art of **data visualization**.  
+📊 Currently exploring **data analytics** and the art of **data visualization**.   -->
+
+<h3 align="center">Back End Developer | Distro Hopper 🐧</h3>
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
