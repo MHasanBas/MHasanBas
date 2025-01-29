@@ -28,6 +28,7 @@
 I'm a Frontend Developer passionate about crafting beautiful and efficient web experiences. I enjoy sharing my journey, insights, and lessons learned in the tech industry.
 
 🎓 Computer Science Graduate from State Polytechnic of Malang, Indonesia
+
 🌐 Portfolio: mhasanbas.github.io/portfolio
 <!-- 
 <h3 align="center">Back End Developer | Distro Hopper 🐧</h3>
