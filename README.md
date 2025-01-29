@@ -25,7 +25,8 @@ I'm a Frontend Developer passionate about crafting beautiful and efficient web e
 
 🎓 Computer Science Graduate from State Polytechnic of Malang, Indonesia
 
-🌐 Portfolio: mhasanbas.github.io/portfolio
+🌐 You can check out my portfolio here: [mhasanbas.github.io/portfolio](https://mhasanbas.github.io/portfolio)
+
 <!-- 
 <h3 align="center">Back End Developer | Distro Hopper 🐧</h3>
   -->
