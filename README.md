@@ -1,4 +1,4 @@
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+<!--  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"> -->
 
 
 <img src="https://raw.githubusercontent.com/MHasanBas/MHasanBas/output/snake.svg" alt="Snake animation" />
@@ -21,12 +21,15 @@
 
 
 
-<!--  👋 Hi, I'm Hasan!
+👋 Hi, I'm Hasan!
 
-👨‍💻 **Frontend Developer** sharing my journey and lessons in tech.  
-🎓 **Computer Science Graduate** from State Polytechnic of Malang, Indonesia.  
-🌱 Passionate about **#LearningInPublic** and growing knowledge in my digital garden.  
-📊 Currently exploring **data analytics** and the art of **data visualization**. 
+🚀 About Me
+
+I'm a Frontend Developer passionate about crafting beautiful and efficient web experiences. I enjoy sharing my journey, insights, and lessons learned in the tech industry.
+
+🎓 Computer Science Graduate from State Polytechnic of Malang, Indonesia
+🌐 Portfolio: mhasanbas.github.io/portfolio
+<!-- 
 <h3 align="center">Back End Developer | Distro Hopper 🐧</h3>
   -->
 
