@@ -21,10 +21,6 @@
 
 
 
-👋 Hi, I'm Hasan!
-
-🚀 About Me
-
 I'm a Frontend Developer passionate about crafting beautiful and efficient web experiences. I enjoy sharing my journey, insights, and lessons learned in the tech industry.
 
 🎓 Computer Science Graduate from State Polytechnic of Malang, Indonesia
