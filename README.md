@@ -23,7 +23,7 @@
 
 I'm a Frontend Developer passionate about crafting beautiful and efficient web experiences. I enjoy sharing my journey, insights, and lessons learned in the tech industry.
 
-🎓 Computer Science Graduate from State Polytechnic of Malang, Indonesia
+🎓 Computer Science UnderGraduate from State Polytechnic of Malang, Indonesia
 
 🌐 You can check out my portfolio here: [portfolio](https://mhasanbas.github.io/portfolio)
 
